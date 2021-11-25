@@ -1,0 +1,17 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:splash_potion"
+      },
+      "title": "Magical!",
+      "description": "Cast a spell.",
+      "announce_to_chat": true
+    },
+    "parent": "exotestmod:magic_wand",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  

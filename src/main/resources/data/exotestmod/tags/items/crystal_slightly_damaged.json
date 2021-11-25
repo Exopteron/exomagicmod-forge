@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "exotestmod:crystal_nodmg",
+        "exotestmod:crystal_slightdmg"
+    ]
+}

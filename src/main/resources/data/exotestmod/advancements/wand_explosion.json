@@ -1,0 +1,18 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:tnt"
+      },
+      "title": "Uh oh..",
+      "description": "Use a wand more than 10 times with the same crystal.",
+      "announce_to_chat": true,
+      "hidden": true
+    },
+    "parent": "exotestmod:magic_wand",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  

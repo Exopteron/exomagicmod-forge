@@ -1,0 +1,26 @@
+{
+    "display": {
+      "icon": {
+        "item": "exotestmod:energy_crystal"
+      },
+      "title": "Magically Impressed",
+      "description": "Obtain an Energy Crystal",
+      "announce_to_chat": true
+    },
+    "parent": "exotestmod:exotestmod",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "exotestmod:energy_crystal"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+  

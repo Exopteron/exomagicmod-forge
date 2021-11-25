@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "exotestmod:block/magicium_block"
+    }
+}

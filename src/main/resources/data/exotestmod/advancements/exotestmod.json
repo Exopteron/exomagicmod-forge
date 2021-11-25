@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "title": "Exo's Magic Mod",
+        "description": "Obtain a Magicum Gem",
+        "announce_to_chat": true
+    },
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "exotestmod:magicium_gem"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

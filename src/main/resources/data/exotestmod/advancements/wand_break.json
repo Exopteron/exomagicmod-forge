@@ -1,0 +1,17 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:tnt"
+      },
+      "title": "Kablooey!",
+      "description": "Use all the durability of your wand.",
+      "announce_to_chat": true
+    },
+    "parent": "exotestmod:magic_wand",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  

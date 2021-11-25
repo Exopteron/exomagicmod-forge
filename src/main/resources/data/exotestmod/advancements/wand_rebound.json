@@ -1,0 +1,17 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:fire_charge"
+      },
+      "title": "Rebound!",
+      "description": "Have a spell rebound.",
+      "announce_to_chat": true
+    },
+    "parent": "exotestmod:magic_wand",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+  }
+  
